@@ -1,0 +1,23 @@
+.center {
+    text-emphasis: center;
+}
+
+.container{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center ;
+    align-items: center;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+img{
+    border-radius: 50%;
+}
+.wh{
+    width: 100px;
+    height: 100px;
+}
